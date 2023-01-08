@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://transferto.xyz",
   "bugs": "https://github.com/lifinance/lifi-web/issues",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
     "@etherspot/contracts": "^1.9.51",
